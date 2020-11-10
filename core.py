@@ -7,4 +7,4 @@ Created on Fri Nov 9, 2020
 """
 
 def foo(x):
-return + 1
+    return x+ 1
